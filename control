@@ -6,4 +6,4 @@ Description: Disable the blur effect when switching from the LS to the HS!
 Maintainer: raspberryenvoie
 Author: raspberryenvoie
 Section: Tweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.15.1)
