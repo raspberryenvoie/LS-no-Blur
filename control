@@ -1,6 +1,6 @@
 Package: com.raspberryenvoie.lsnoblur
 Name: LS no Blur
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Disable the blur effect when switching from the LS to the HS!
 Maintainer: raspberryenvoie
