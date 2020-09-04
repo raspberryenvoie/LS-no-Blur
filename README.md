@@ -1,7 +1,6 @@
-# LS no Blur
-Disable the blur effect when switching from the LS to the HS!
+<p align="center"><img src="https://raw.githubusercontent.com/raspberryenvoie/LS-no-Blur/master/lsnoblurprefs/Resources/banners/banner%402x.png" alt="banner"></p>
 
-This is my first tweak, a very simple one.
+<p align="center">This is my first tweak, a very simple one.</p>
 
-## Download
-Download the tweak [here](https://github.com/raspberryenvoie/LS-no-Blur/releases).
+<h1 align="center">Download</h1>
+<p align="center">Download LS no Blur <a href="https://github.com/raspberryenvoie/LS-no-Blur/releases">here</a>.</p>
